@@ -140,28 +140,28 @@ const teamMembers = [
         name: "Muqiit Khoerulloh",
         role: "Founder & CEO",
         image: "images/muqiit.jpg",
-        link: "muqiit/index.html"
+        link: "main/muqiit/index.html"
     },
 
     {
         name: "Winda",
         role: "Lead Producer",
         image: "images/winda.jpg",
-        link: "winda/index.html"
+        link: "main/winda/index.html"
     },
 
     {
         name: "Hesti Nurhasanah",
         role: "Creative Director",
         image: "images/hesti.jpg",
-        link: "hesti/index.html"
+        link: "main/hesti/index.html"
     },
 
     {
         name: "Rafi",
         role: "Marketing Manager",
         image: "images/rafi.jpg",
-        link: "rafi/index.html"
+        link: "main/rafi/index.html"
     }
 
 ];
